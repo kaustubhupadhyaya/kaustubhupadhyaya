@@ -4,9 +4,11 @@
 
 **Data platform engineer building local-first automation, retrieval, and evaluation systems.**
 
+I turn messy local data into measured, inspectable pipelines.
+
 </div>
 
-## GitHub stats
+## At a glance
 
 <p align="center">
   <picture>
@@ -18,6 +20,12 @@
     <img height="165" src="./profile/top-langs-light.svg" alt="Top languages">
   </picture>
 </p>
+
+## What I build
+
+- **Data platforms:** lakehouse labs, ETL pipelines, SQL modeling, Airflow orchestration, and cloud-native data infrastructure.
+- **Agent tooling:** local automation, retrieval, evaluation, and orchestration systems that are safe to inspect and reproduce.
+- **Local-first systems:** privacy-preserving tools that run on a laptop, keep data local, and produce measurable results.
 
 ## Featured work
 
@@ -55,11 +63,13 @@
 
 Smaller tools that support a job search, kept separate from the work above.
 
-- **[naukri-autoapply](https://github.com/kaustubhupadhyaya/naukri-autoapply)**: sanitized public copy of a Naukri.com Easy Apply automation bot.
-- **[job-dashboard](https://github.com/kaustubhupadhyaya/job-dashboard)**: read-only local dashboard for job-application bots, with a demo that needs no real repo.
-- **[instahyre-autoapply](https://github.com/kaustubhupadhyaya/instahyre-autoapply)**: applies to Instahyre-matched jobs through a logged-in Edge profile, dry run by default.
-- **[linkedin-autoapply-public](https://github.com/kaustubhupadhyaya/linkedin-autoapply-public)**: public sanitized fork of Auto_job_applier_linkedIn with a hardened local runner and supervisor.
-- **[gulf-autoapply](https://github.com/kaustubhupadhyaya/gulf-autoapply)**: Gulf and ATS job appliers with dry-run defaults and sample configs.
+| Tool | What it does |
+|---|---|
+| [naukri-autoapply](https://github.com/kaustubhupadhyaya/naukri-autoapply) | Sanitized public copy of a Naukri.com Easy Apply automation bot |
+| [job-dashboard](https://github.com/kaustubhupadhyaya/job-dashboard) | Read-only local dashboard for job-application bots |
+| [instahyre-autoapply](https://github.com/kaustubhupadhyaya/instahyre-autoapply) | Instahyre-matched job applier with dry-run defaults |
+| [linkedin-autoapply-public](https://github.com/kaustubhupadhyaya/linkedin-autoapply-public) | Hardened LinkedIn auto-apply runner and supervisor |
+| [gulf-autoapply](https://github.com/kaustubhupadhyaya/gulf-autoapply) | Gulf and ATS job appliers with sample configs |
 
 <p align="center">
   <sub>Stats and cards generated with <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, served by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>.</sub>
